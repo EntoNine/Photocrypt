@@ -9,8 +9,10 @@ Preview app_gui & app_tui:
 
 
 ![gui_app](gui_app.png)
+---
 ![tui_app](tui_app.png)
 
+---
 
 Here's how it works
 
