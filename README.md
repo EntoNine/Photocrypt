@@ -1,3 +1,6 @@
+
+![Logo](photocrypt-logo.svg)
+
 # Photocrypt
 Encryption software
 
