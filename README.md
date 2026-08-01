@@ -16,3 +16,9 @@ How to compile on linux using pyinstaller:
 pip install pyinstaller
 
 ```
+
+2. Compile using pyinstaller (Replace [APP] by the filename)
+```bash
+pyinstaller --noconfirm --onefile --windowed --strip     --exclude-module PyQt6.Qt3D     --exclude-module PyQt6.QtQuick     --exclude-module PyQt6.QtNetwork     --exclude-module PyQt6.QtQml     --exclude-module PyQt6.QtSql     --exclude-module PyQt6.QtTest     --exclude-module PyQt6.QtXml     --exclude-module PyQt6.QtWebEngineCore     [APP].py
+
+```
