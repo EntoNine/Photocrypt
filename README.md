@@ -8,8 +8,8 @@ Encrypt file into images, made in python
 Preview app_gui & app_tui:
 
 
-![gui_app](app_gui.png)
-![tui_app](app_tui.png)
+![gui_app](gui_app.png)
+![tui_app](tui_app.png)
 
 
 Here's how it works
