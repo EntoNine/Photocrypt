@@ -1,5 +1,5 @@
 
-![Logo](photocrypt-logo.png)
+![Logo](photo-crypt.png)
 
 # Photocrypt
 Encryption software
